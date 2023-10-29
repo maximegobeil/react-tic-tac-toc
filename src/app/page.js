@@ -129,6 +129,7 @@ export default function Game() {
 
   return (
     <div className="game">
+      <h1>Allo Andrea</h1>
       <div className="game-board">
         <Board
           squares={currentSquares}
